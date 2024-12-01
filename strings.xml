@@ -1,0 +1,40 @@
+<resources>
+    <string-array name="gender_options">
+        <item>Gender:</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="status_options">
+        <item>Status:</item>
+        <item>Single</item>
+        <item>Married</item>
+        <item>Divorced</item>
+        <item>Widowed</item>
+        <item>Other</item>
+    </string-array>
+    <string name="Back">Go back</string>
+    <string name="app_name">AmityMC</string>
+    <string name="AmityMC">AmityMc\n</string>
+    <string name="home">home\n</string>
+    <string name="file">file\n</string>
+    <string name="staff">staffs</string>
+    <string name="add_files">Add Files</string>
+    <string name="add_patient">Add Patient</string>
+    <string name="welcome">Welcome!</string>
+    <string name="log_out">Log Out</string>
+    <string name="clinic_doctors_and_staffs">Clinic Doctors and Staffs</string>
+    <string name="medical_records">Medical Records</string>
+    <string name="add_staff">add staff\n</string>
+    <string name="check_up_date">Check-up Date</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="title_activity_otp_phone">otpPhone</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="LogoLogIn">LogoLogIn</string>
+    <string name="upload_files">Upload files</string>
+    <string name="blood_pressure">Blood Pressure</string>
+    <string name="vital_signs">Vital signs</string>
+
+</resources>
